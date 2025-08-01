@@ -1,0 +1,27 @@
+{
+  "name": "Preflop Xray Vision",
+  "short_name": "PXV",
+  "description": "Preflop Xray Vision (PXV) is a study tool that lets you compare the GTO actions of 8 players at a time.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "landscape",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "favicon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "favicon-512x512.png",
+      "sizes": "512x512", 
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["games", "utilities"],
+  "lang": "en"
+} 
